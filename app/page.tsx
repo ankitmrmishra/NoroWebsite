@@ -1,8 +1,8 @@
 "use client";
 
-import { ArrowRight, Circle, PhoneCall } from "lucide-react";
+import { ArrowRight, Circle } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
+
 import { Instrument_Serif } from "next/font/google";
 import { cn } from "@/lib/utils";
 const Instrument_Serif_font = Instrument_Serif({
