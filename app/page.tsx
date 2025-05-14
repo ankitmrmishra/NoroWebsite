@@ -85,7 +85,7 @@ export default function Hero() {
         alt="Noro Work Logo"
         width={80}
         height={40}
-        className="w-screen px-10 md:py-5"
+        className="w-screen px-10 md:py-2"
       />
     </section>
   );
